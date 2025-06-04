@@ -1,17 +1,18 @@
 ### Hello WORLD
-在下是Andy，字：和弈 
-同时也是开发爱好者
-現今是一名在读高中生<OVER>
-
-在高中阶段我基于自己的想法和乐色的技术写出了一些**勉强能用的项目:**  
-
-* [Geektenet](http://geektenet.com/) 论坛
-* [MundumNET](http://mundum.net/) 论坛
+在下是Andy，是一名学生<OVER>
+从高中开始我基于自己的想法和一点点技术写出了一些**勉强能用的项目:**  
 and so on...
 
 我的技术一般般  
 
 ### 主页
 博客：[andyccr.com](http://www.andyccr.com)  
-bilibili：[https://space.bilibili.com/342767346](https://space.bilibili.com/342767346)  
 格理悟道——ANDYCCR
+
+<!-- 徽章区 -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername/repo?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/yourusername/repo?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/license/yourusername/repo" alt="License">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs">
+</p>

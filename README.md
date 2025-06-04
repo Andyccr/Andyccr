@@ -11,7 +11,7 @@ and so on...
 
 <!-- 徽章区 -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Andyccr/repo?style=social" alt="Stars">
+  <img src="[https://img.shields.io/github/stars/Andyccr/repo?style=social](https://github-readme-stats.vercel.app/api?username=Andyccr&show_icons=true&count_private=true&include_all_commits=true)" alt="Stars">
   <img src="https://img.shields.io/github/forks/Andyccr/repo?style=social" alt="Forks">
   <img src="https://img.shields.io/github/license/Andyccr/repo" alt="License">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs">

@@ -14,9 +14,9 @@ and so on...
 
 ### 🌟 我的 GitHub 统计
 
-[![总Star数](https://img.shields.io/github/stars/Andyccr?label=总Stars&style=for-the-badge&color=gold)](https://github.com/USERNAME)
-[![总Fork数](https://img.shields.io/github/forks/Andyccr?label=总Forks&style=for-the-badge&color=green)](https://github.com/USERNAME)
+[![总Star数](https://img.shields.io/github/stars/Andyccr?label=总Stars&style=for-the-badge&color=gold)](https://github.com/Andyccr)
+[![总Fork数](https://img.shields.io/github/forks/Andyccr?label=总Forks&style=for-the-badge&color=green)](https://github.com/Andyccr)
 
-[![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyccrE&layout=compact)](https://github.com/USERNAME)
+[![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=Andyccr&layout=compact)](https://github.com/Andyccr)
 
 </div>

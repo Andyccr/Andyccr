@@ -16,7 +16,7 @@ and so on...
 
 [![总Star数](https://img.shields.io/github/stars/Andyccr?label=总Stars&style=for-the-badge&color=gold)](https://github.com/Andyccr)
 
-[![总Fork数](https://img.shields.io/github/forks/Andyccr?label=总Forks&style=for-the-badge&color=green)](https://github.com/Andyccr)
+[![总Forks](https://img.shields.io/github/forks/Andyccr?label=总Forks&color=green&style=flat)](https://github.com/Andyccr)
 
 [![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=Andyccr&layout=compact)](https://github.com/Andyccr)
 

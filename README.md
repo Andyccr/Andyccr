@@ -2,7 +2,6 @@
 我是Andy，是一名学生<OVER>
 
 - 从中学开始我基于自己的想法开始写一些**自己喜欢的项目**
-- <img src="https://cdn.jsdelivr.net/gh/Andyccr/Andyccrb@v1.1.5/icons/logo-gray.svg" style="height: 1rem">  [qbb.sh](http://qbb.sh/)
 
 
 ### 个人网站

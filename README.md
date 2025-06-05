@@ -136,8 +136,6 @@
 
 <div align="center">
 <a href="https://www.microsoft.com/windows11"><img src="https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF" alt="Windows 11"></a>
-<a href="https://manjaro.org"><img src="https://img.shields.io/badge/Manjaro-00C000?style=flat-square&logo=manjaro&logoColor=FFFFFF&labelColor=00C000" alt="Manjaro"></a>
-<a href="https://www.linuxmint.com/"><img src="https://img.shields.io/badge/Linuxmint%2022-00C000?style=flat-square&logo=linuxmint&logoColor=FFFFFF" alt="Linuxmint 22"></a>
 <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000" alt="Android"></a>
 <a href="https://www.apple.com/ios"><img src="https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F" alt="iOS"></a>
 </div>

@@ -1,7 +1,8 @@
 ### Hello WORLD
-在下是Andy，是一名学生<OVER>
-从高中开始我基于自己的想法和一点点技术写出了一些**勉强能用的项目:**  
-and so on...
+我是Andy，是一名学生<OVER>
+
+从中学开始我基于自己的想法开始写一些**自己喜欢的项目**
+
 
 ### 网站
 个人主页：[www.andyccr.com](http://www.andyccr.com)  

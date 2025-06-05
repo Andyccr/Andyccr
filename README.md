@@ -4,9 +4,8 @@
 从中学开始我基于自己的想法开始写一些**自己喜欢的项目**
 
 
-### 网站
-个人主页：[www.andyccr.com](http://www.andyccr.com)  
-格理悟道——ANDYCCR
+### 个人网站
+主页：[www.andyccr.com](http://www.andyccr.com)  
 
 <!-- 徽章区 -->
 <div align="center">
@@ -18,3 +17,6 @@
 [![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=Andyccr&layout=compact)](https://github.com/Andyccr)
 
 </div>
+
+---
+格理悟道——ANDYCCR

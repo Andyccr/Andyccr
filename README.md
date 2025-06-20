@@ -10,7 +10,7 @@
 
 HI,I'm Andy and <OVER>here is my **Github README.**
 
-Website：[www.andyccr.com](http://www.andyccr.com)  
+Blog：[andychen.net](https://andychen.net)  
 
 <!-- 徽章区 -->
 <div align="center">

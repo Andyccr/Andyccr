@@ -21,13 +21,6 @@
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Andyccr&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="160">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyccr&layout=donut&hide_border=true&theme=transparent" height="160">
-
-</div>
 
 <br>
 <br>

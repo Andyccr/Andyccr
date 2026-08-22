@@ -1,27 +1,37 @@
 <div align="center">
 
-### Hello WORLD
----
+# Andy Chen
 
+**Computer Science · AI · Complex Systems**
+
+Researching artificial life, agentic systems, and emergent intelligence.
+
+[Website](https://andychen.net) · [GitHub](https://github.com/Andyccr)
 
 </div>
 
+<br>
 
-
-HI,I'm Andy and <OVER>here is my **Github README.**
-
-Blog：[andychen.net](https://andychen.net)  
-
-<!-- 徽章区 -->
 <div align="center">
 
-### My GitHub date
+<img src="https://github-readme-stats.vercel.app/api?username=Andyccr&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165">
 
-[![Totally Stars](https://img.shields.io/github/stars/Andyccr?label=总Stars&style=for-the-badge&color=gold)](https://github.com/Andyccr)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyccr&layout=donut&hide_border=true&theme=transparent" height="165">
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andyccr&layout=donut)](https://github.com/andyccr/andyccr) ![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andyccr&show_icons=true&theme=transparent)
 </div>
 
-<br clear="both">
+<br>
 
-<h2 align="center">格理悟道</h2>
+<div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/Andyccr?style=flat-square\&label=Stars\&color=gold)](https://github.com/Andyccr)
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 格理悟道
+
+</div>

@@ -4,10 +4,6 @@
 
 ### Computer Science · Artificial Intelligence · Complex Systems
 
-<br>
-
-> **Exploring how intelligence emerges from simplicity.**
-
 
 </div>
 
@@ -16,7 +12,7 @@
 
 ## 格理悟道
 
-*Seek the structure behind the phenomenon.*
+*Seek the structure behind the phenomenon and Exploring how intelligence emerges from simplicity.*
 
 </div>
 

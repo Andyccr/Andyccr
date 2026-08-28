@@ -1,16 +1,7 @@
 <div align="center">
 
-# ANDY CHEN
-
-### Computer Science · Artificial Intelligence · Complex Systems
-
-
-</div>
-
-
-<div align="center">
-
 ## 格理悟道
+### Computer Science · Artificial Intelligence · Complex Systems
 
 *Seek the structure behind the phenomenon and Exploring how intelligence emerges from simplicity.*
 

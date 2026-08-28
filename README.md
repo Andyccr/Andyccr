@@ -18,9 +18,6 @@
 
 <br>
 
-<br>
-<br>
-
 <div align="center">
 
 ## 格理悟道

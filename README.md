@@ -8,15 +8,9 @@
 
 > **Exploring how intelligence emerges from simplicity.**
 
-<br>
-
-[Website](http://andychen.net)　·　[GitHub](https://github.com/Andyccr)
 
 </div>
 
-<br>
-
-<br>
 
 <div align="center">
 

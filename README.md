@@ -15,23 +15,9 @@
 </div>
 
 <br>
-<br>
-
----
 
 <br>
 
-
-<br>
-<br>
-
-<div align="center">
-
-**Artificial Life · Emergent Intelligence · Agentic Systems**
-
-</div>
-
-<br>
 <br>
 <br>
 
